@@ -1,10 +1,10 @@
 # PortfolioProjects
 Portfolio Project Summary:
 
-
-
 Part1:
+
 KPI's is created using COVID_VACCINATION DATASET in SQL ,The KPI's are:
+
 --TOTAL CASES VS TOTAL DEATHS
 --TOTAL CASES VS POPULATION
 --Countries with highesr infection rate compared to population
@@ -17,7 +17,9 @@ KPI's is created using COVID_VACCINATION DATASET in SQL ,The KPI's are:
 
 
 Part2:
+
 DATA_CLEANING IS DONE OF NASHVILLEHOUSING DATASET USING SQL (TOOL MS SQL SERVER MANAGMENT STUDIO)-
+
 In this process :
 -- Data extraction
 --Standarized Data formatting
