@@ -1,5 +1,8 @@
 # PortfolioProjects
 Portfolio Project Summary:
+
+
+
 Part1:
 KPI's is created using COVID_VACCINATION DATASET in SQL ,The KPI's are:
 --TOTAL CASES VS TOTAL DEATHS
